@@ -1,0 +1,16 @@
+/*le pint fait reference a l'attribut class*/
+.texte-rouge
+{
+    color : tomato;
+}
+
+/* hexa
+commence par #
+#0000000 ou lettre de A à F
+*/
+.texte-vert
+{
+    color:rgb(66,149,18);
+}
+
+
